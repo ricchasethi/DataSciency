@@ -13,4 +13,7 @@ The majority of people were exposed to ads (test group: ad) and small control gr
 - most ads day: Day that the person saw the biggest amount of ads
 - most ads hour: Hour of day that the person saw the biggest amount of ads
 
-The A/B testing is explored in the notebook: 'eda/kaggle_data.ipynb'
+The A/B testing is explored in the notebook: 'eda/kaggle_data.ipynb'.
+Poetry was used for package management. To install the packges in a virtual environment, type
+`poetry install`
+`source .venv/bin/activate`
